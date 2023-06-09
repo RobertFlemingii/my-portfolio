@@ -24,12 +24,12 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Statistical Calculator",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A program designed to perform various statistical calculations on a given dataset, including measures of central tendency (mean, median, mode) and measures of spread (range, minimum, maximum).",
+    image: "./statistics.jpg",
+    link: "https://github.com/RobertFlemingii/summary-statistics",
   },
 ];
 
