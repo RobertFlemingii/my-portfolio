@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Python",
     description:
       "A program designed to perform various statistical calculations on a given dataset, including measures of central tendency (mean, median, mode) and measures of spread (range, minimum, maximum).",
-    image: "../public/statistics.jpg",
+    image: "./statistics.jpg",
     link: "https://github.com/RobertFlemingii/summary-statistics",
   },
 ];
