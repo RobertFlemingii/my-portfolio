@@ -39,7 +39,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=417+Laurent+Street,+Santa+Cruz,+CA,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.780106677086!2d-118.24632752470367!3d34.04951131787524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c648579656e9%3A0x10a584f090a2def3!2s222%20S%20Los%20Angeles%20St%2C%20Los%20Angeles%2C%20CA%2090013!5e0!3m2!1sen!2sus!4v1698011357798!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md w-full" style={{backgroundColor: "#1f2937", color: "white"}}>
             <div className="lg:w-1/2 px-6">
@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                222 Los Angeles St. <br />
+                222 S Los Angeles St. <br />
                 Los Angeles, CA 90012
               </p>
             </div>
