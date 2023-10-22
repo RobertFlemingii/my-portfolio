@@ -47,8 +47,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                417 Laurent St. <br />
-                Santa Cruz, CA 95060
+                222 Los Angeles St. <br />
+                Los Angeles, CA 90012
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -74,8 +74,8 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+          I specialize in creating captivating web experiences. Let's turn your ideas into beautifully functional websites. 
+          Ready to bring your project to life? Contact me today!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-white">
