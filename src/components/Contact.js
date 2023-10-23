@@ -39,7 +39,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.794653600211!2d-118.24641542470374!3d34.04913821789501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c648494d1e49%3A0x72945d5094913e04!2s236%20S%20Los%20Angeles%20St!5e0!3m2!1sen!2sus!4v1698072219045!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.794653600211!2d-118.24641542470374!3d34.04913821789501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c648494d1e49%3A0x72945d5094913e04!2s236%20S%20Los%20Angeles%20St!5e0!3m2!1sen!2sus!4v1698072219045!5m2!1sen!2sus"
           />
 
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md w-full" style={{backgroundColor: "#1f2937", color: "white"}}>
