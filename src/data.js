@@ -17,7 +17,7 @@ export const projects = [
   // },
   {
     title: "Interactive Flow Fields",
-    subtitle: "Python and OpenGL",
+    subtitle: "GLSL (OpenGL Shader Language) and TouchDesigner",
     description:
       "A generative art that simulates fluid dynamics with a flow field equipped with two 3D cameras that search for the human body to create unique disruptions in the flow field.",
     image: "./interactive_flow_fields.jpg",
