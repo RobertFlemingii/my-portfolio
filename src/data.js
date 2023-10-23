@@ -15,14 +15,14 @@ export const projects = [
   //   image: "./project-2.gif",
   //   link: "https://reactbootcamp.com",
   // },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  {
+    title: "Interactive Flow Fields",
+    subtitle: "Python and OpenGL",
+    description:
+      "A generative art that simulates fluid dynamics with a flow field equipped with two 3D cameras that search for the human body to create unique disruptions in the flow field.",
+    image: "./interactive_flow_fields.jpg",
+    // link: "https://reactbootcamp.com",
+  },
   {
     title: "Statistical Calculator",
     subtitle: "Python",
