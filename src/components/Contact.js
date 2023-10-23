@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                222 S Los Angeles St. <br />
+                236 S Los Angeles St. <br />
                 Los Angeles, CA 90012
               </p>
             </div>
